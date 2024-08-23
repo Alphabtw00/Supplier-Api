@@ -27,26 +27,26 @@ Supplier API is a Spring Boot application that provides endpoints to query suppl
 
 ## Installation
 
-###### 1.Clone the repository:
+###### 1. Clone the repository:
 
 
 ```
 git clone https://github.com/Alphabtw00/Supplier-Api
 ```
 
-###### 2.Navigate to the project directory:
+###### 2. Navigate to the project directory:
 
 ```
 cd supplier-api
 ```
 
-###### 3.Build the project:
+###### 3. Build the project:
 
 ```
 mvn clean install
 ```
 
-###### 4.Run the application:
+###### 4. Run the application:
 
 ```
 java -jar target/supplier-api-0.0.1-SNAPSHOT.jar
